@@ -21,7 +21,7 @@ public class Main {
         cliente.setNombre("Juliana");
         cliente.setTelefono(12345678);
         cliente.setCredito(800000);
-        
+
         System.out.printf("Edad: %d\n", cliente.getEdad());
         System.out.printf("Nombre: %s\n", cliente.getNombre());
         System.out.printf("Telefono: %d\n", cliente.getTelefono());
